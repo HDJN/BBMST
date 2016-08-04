@@ -91,7 +91,7 @@ return [
     |
     */
 
-    'key' => env('APP_KEY'),
+    'key' => md5('BBMST'),
 
     'cipher' => 'AES-256-CBC',
 
