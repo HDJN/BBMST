@@ -48,3 +48,8 @@ summernote(https://github.com/summernote/summernote)<br>
 虽然名义上用了Laravel，但实际上为了便于移植，并未使用太多框架内的功能。这样可以很简单的将整个程序移植到CI或TP等其他框架下。<br>
 pdo的数据库操作类仅封装了基本办法。复杂的情况请自行更改。貌似有点麻烦。<br>
 还有最重要的一点。。。。出了问题我都不负责。。。。。
+
+测试账号：
+------
+登录ID：admin<br>
+密码：abc123
